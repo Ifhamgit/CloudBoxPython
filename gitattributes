@@ -1,15 +1,4 @@
-# Set the default behavior for text files
-* text=auto
-
-# Python files
-*.py text
-*.pyc binary
-
-# HTML files
-*.html text
-
-# Jinja templates
-*.jinja text
-
-# FastAPI files (assuming they are Python files)
-app.py text
+*.js linguist-detectable=true 
+*.html linguist-detectable=true 
+*.css linguist-detectable=true 
+*.py linguist-detectable=true 
